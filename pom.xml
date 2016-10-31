@@ -4,8 +4,8 @@
   <artifactId>MavenTesting</artifactId>
   <version>0.0.1-SNAPSHOT</version>
   <packaging>war</packaging>
-  <name>MainTask</name>
-  <description>Demo</description>
+  <name>MainTasks</name>
+  <description>Demos</description>
   <build>
     <plugins>
   <plugin>
